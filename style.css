@@ -3,6 +3,7 @@
 	padding: 0px;
 }
 body{
+	display: flex;
 	background-color: #ea34f2;
 }
 section{
