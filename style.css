@@ -5,3 +5,7 @@
 body{
 	background-color: #ea34f2;
 }
+footer{
+	padding: 20px;
+	box-sizing: content-box;
+}
